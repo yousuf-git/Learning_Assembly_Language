@@ -1,0 +1,22 @@
+# --------------- Program Intro ---------------- #
+
+# Title: 
+# Author: 
+# Description: 
+# Date: 
+# INPUT: 
+# OUTPUT: 
+
+# --------------- Data Segement / Variables ---------------- #
+
+.data
+	
+
+.global		main 					# optional
+
+# --------------- Code Segement / Instructions ---------------- #
+
+.text
+main:
+    
+    
